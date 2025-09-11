@@ -1,4 +1,4 @@
-# Keratoconus Detection Using CNN  
+# Keratoconus Detection Algorithm Using CNN  
 
 ## 📌 Project Overview  
 This project focuses on developing a **Convolutional Neural Network (CNN)** based algorithm, called **KeratoDetect**, to detect and analyze keratoconus from corneal topography images.  
