@@ -61,4 +61,22 @@ Before recommending surgery, the following tests are performed:
 ## 🚀 Future Work  
 - Improve dataset size and diversity.  
 - Develop a clinical decision support system.  
-- Integrate into ophthalmic imaging devices for real-time diagnosis.  
+- Integrate into ophthalmic imaging devices for real-time diagnosis.
+
+
+## 🛠 Tech Stack
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- CNN (Convolutional Neural Network)
+
+
+## 📌 Repository Note
+This repository represents the research workflow, methodology, and project overview developed as part of an academic AI/ML research initiative on keratoconus detection using CNNs.
+
+
+## 📄 Publication
+Published in IJERT (International Journal of Engineering Research & Technology), Volume 15, Issue 01, January 2026.
