@@ -25,6 +25,10 @@ The model leverages Artificial Intelligence and Machine Learning techniques to a
 4. **Deployment** – User-friendly interface for clinical use.  
 
 
+## 🧠 CNN Workflow Architecture
+![CNN Workflow](Screenshots/cnn_workflow.png)
+
+
 ## 📊 Results  
 - The **KeratoDetect CNN model** achieved **99.33% accuracy** on the test dataset.  
 - Strong potential to support ophthalmologists in early diagnosis and treatment planning.  
