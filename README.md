@@ -30,8 +30,8 @@ The model leverages Artificial Intelligence and Machine Learning techniques to a
 
 
 ## 📊 Results  
-- The **KeratoDetect CNN model** achieved **99.33% accuracy** on the test dataset.  
-- Strong potential to support ophthalmologists in early diagnosis and treatment planning.  
+- The proposed CNN-based workflow demonstrated strong potential for keratoconus detection and clinical decision support.
+- The project focused on studying and implementing CNN-based medical image analysis techniques for ophthalmology applications.
 
 
 ## 🧪 Pre-Qualification Tests for Surgery  
