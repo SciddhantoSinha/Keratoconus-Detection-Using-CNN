@@ -26,7 +26,7 @@ The model leverages Artificial Intelligence and Machine Learning techniques to a
 
 
 ## 🧠 CNN Workflow Architecture
-"D:\Perfo\InTimeTec_Assessment\Screenshots\cnn_workflow.png"
+<img width="1800" height="1077" alt="cnn_workflow" src="https://github.com/user-attachments/assets/3dd0627a-ba26-4d09-8a90-83d168625adf" />
 
 
 ## 📊 Results  
