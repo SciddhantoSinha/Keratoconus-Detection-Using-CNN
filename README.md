@@ -79,4 +79,14 @@ This repository represents the research workflow, methodology, and project overv
 
 
 ## 📄 Publication
+
 Published in IJERT (International Journal of Engineering Research & Technology), Volume 15, Issue 01, January 2026.
+
+Publication Title:
+"Keratoconus Detection Using Convolutional Neural Networks"
+
+Authors:
+Dr. Jayashree Prasad, Sciddhanto Sinha, Vraj Patel, Uchasha Mukherjee, Vivek Mahajan
+
+Paper Link:
+https://www.ijert.org/keratoconus-detection-using-convolutional-neural-networks-ijertv15is010498
